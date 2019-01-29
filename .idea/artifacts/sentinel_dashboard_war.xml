@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sentinel-dashboard:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sentinel-dashboard.war">
+      <element id="artifact" artifact-name="sentinel-dashboard:war exploded" />
+    </root>
+  </artifact>
+</component>

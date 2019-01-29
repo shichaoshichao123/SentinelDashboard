@@ -1,0 +1,10 @@
+node_modules/
+tmp/
+.project
+.settings
+*./target/
+.idea
+*.iml
+.metadata/
+catalina.base_IS_UNDEFINED/
+**.DS_Store
